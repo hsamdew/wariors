@@ -227,12 +227,12 @@ function create_config( )
 		"azan",
 		"rep"
     },
-    sudo_users = {201707431,0}, --Sudo users
+    sudo_users = {317576202,315017219,0}, --Sudo users
     moderation = {data = 'data/moderation.json'},
     about_text = [[
-	Telemega Bot !
-		<b>Powered By megacli</b>
-				@botreborn_ch
+	WARIORS Bot !
+		<b>Powered By WARIORS TEAM</b>
+				@WARIORS_TM
 ]],
   }
 	serialize_to_file(config, './data/config.lua')
